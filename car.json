@@ -1,0 +1,44 @@
+{
+  "ABICode": "32130768",
+  "Description": "MERCEDES-BENZ E220 SE CDI",
+  "RegistrationYear": "2013",
+  "CarMake": {
+    "CurrentTextValue": "MERCEDES-BENZ"
+  },
+  "CarModel": {
+    "CurrentTextValue": "E220 SE CDI"
+  },
+  "EngineSize": {
+    "CurrentTextValue": "2143"
+  },
+  "FuelType": {
+    "CurrentTextValue": "Diesel"
+  },
+  "MakeDescription": "MERCEDES-BENZ",
+  "ModelDescription": "E220 SE CDI",
+  "Immobiliser": {
+    "CurrentTextValue": ""
+  },
+  "NumberOfSeats": {
+    "CurrentTextValue": "5"
+  },
+  "DriverSide": {
+    "CurrentTextValue": null
+  },
+  "Transmission": {
+    "CurrentTextValue": "Automatic"
+  },
+  "NumberOfDoors": {
+    "CurrentTextValue": "4DR"
+  },
+  "VehicleInsuranceGroup": "10",
+  "VehicleInsuranceGroupOutOf": "50",
+  "VehicleIdentificationNumber": "WDD2120022A899877",
+  "EngineCode": "65192431880945",
+  "EngineNumber": "65192431880945",
+  "BodyStyle": {
+    "CurrentTextValue": "Saloon"
+  },
+  "Colour": "WHITE",
+  "RegistrationDate": "30/09/2013"
+}

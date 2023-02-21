@@ -1,0 +1,27 @@
+<Vehicle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://regcheck.org.uk">
+<vehicleJson>{ "ABICode": "", "Description": "CITROEN C1 HATCHBACK - 1.0i VTR 5dr", "RegistrationYear": "2009", "CarMake": { "CurrentTextValue": "CITROEN" }, "CarModel": { "CurrentTextValue": "C1 HATCHBACK - 1.0i VTR 5dr" }, "BodyStyle": { "CurrentTextValue": "1.0i VTR 5dr" }, "EngineSize": { "CurrentTextValue": "1000" }, "NumberOfDoors": { "CurrentTextValue": "" }, "Transmission": { "CurrentTextValue": "Manual" }, "FuelType": { "CurrentTextValue": "Petrol" }, "MakeDescription": { "CurrentTextValue": "CITROEN" }, "ModelDescription": { "CurrentTextValue": "C1 HATCHBACK - 1.0i VTR 5dr" }, "Immobiliser": { "CurrentTextValue": "" }, "NumberOfSeats": { "CurrentTextValue": "" }, "IndicativeValue": { "CurrentTextValue": 0 }, "DriverSide": { "CurrentTextValue": "" }, "VehicleInsuranceGroup": 2, "VehicleInsuranceGroupOutOf": 50, "VehicleIdentificationNumber": "VF7PNCFAC89299318", "EngineCode": "", "EngineNumber": "", "Colour": "Red", "ImageUrl": "https://www.regcheck.org.uk/image.aspx/@Q0lUUk9FTiBDMSBIQVRDSEJBQ0sgLSAxLjBpIFZUUiA1ZHI=" }</vehicleJson>
+<vehicleData>
+<Description>CITROEN C1 HATCHBACK - 1.0i VTR 5dr</Description>
+<RegistrationYear>2009</RegistrationYear>
+<CarMake>
+<CurrentTextValue>CITROEN</CurrentTextValue>
+</CarMake>
+<BodyStyle>
+<CurrentTextValue>1.0i VTR 5dr</CurrentTextValue>
+</BodyStyle>
+<EngineSize>
+<CurrentValue>1000</CurrentValue>
+</EngineSize>
+<NumberOfDoors>
+<CurrentValue/>
+</NumberOfDoors>
+<Transmission>
+<CurrentTextValue>Manual</CurrentTextValue>
+</Transmission>
+<FuelType>
+<CurrentTextValue>Petrol</CurrentTextValue>
+</FuelType>
+<MakeDescription>CITROEN</MakeDescription>
+<ModelDescription>C1 HATCHBACK - 1.0i VTR 5dr</ModelDescription>
+</vehicleData>
+</Vehicle>
